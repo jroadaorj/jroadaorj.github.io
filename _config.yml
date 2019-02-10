@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "JROAD Studyroom"
 title_separator          : "-"
 name                     : "JROAD"
-description              : "An amazing website."
+description              : ""
 url                      : "https://yourname.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,9 +110,9 @@ analytics:
 author:
   name             : "JROAD"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : ""
   location         : "Auckland, New Zealand"
-  email            :
+  email            : jroadaorj@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
